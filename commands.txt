@@ -1,0 +1,28 @@
+Update Commands
+!addcommand
+!editcommand
+!removecommand
+!enable
+
+Quotes
+!quote
+!addquote
+!quoteedit
+!quoteremove
+
+Stream details
+!setgame
+!settitle
+!so
+!stream
+!followage
+!uptime
+!game
+!title
+!death
+!death+
+
+Links
+!discord
+!steam
+!help
