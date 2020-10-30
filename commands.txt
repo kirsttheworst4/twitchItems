@@ -25,4 +25,4 @@ Stream details
 Links
 !discord
 !steam
-!help
+!commands
