@@ -21,8 +21,27 @@ Stream details
 !title
 !death
 !death+
+!lurk
+!raid
 
 Links
 !discord
 !steam
 !commands
+
+Loyalty
+!points
+!top
+!tophours
+!addpoints
+!removepoints
+!give
+!gamble
+!slots
+!duel
+!accept
+!deny
+!cancel
+
+Misc
+!8ball
