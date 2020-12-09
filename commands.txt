@@ -29,6 +29,12 @@ Links
 !steam
 !commands
 
+Misc
+!8ball
+
+##################
+The following commands are still under construction and do not work correctly yet.
+##
 Loyalty
 !points
 !top
@@ -43,5 +49,4 @@ Loyalty
 !deny
 !cancel
 
-Misc
-!8ball
+##
